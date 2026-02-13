@@ -2,6 +2,6 @@
 
 📍 **San Francisco ↔ New York City**
 
-| 🤖 **Software Engineer**
+🤖 **Software Engineer**
 
 Private Equity | Lyft | Ticketfly (acq. by Eventbrite) | Expedia | Amazon | Microsoft

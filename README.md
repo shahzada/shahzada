@@ -4,12 +4,4 @@
 
 | 🤖 **Software Engineer**
 
-| Lyft
-
-| Ticketfly (acq. by Eventbrite)
-
-| Expedia
-
-| Amazon
-
-| Microsoft
+Private Equity | Lyft | Ticketfly (acq. by Eventbrite) | Expedia | Amazon | Microsoft

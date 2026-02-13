@@ -1,9 +1,15 @@
 # Hi, I'm Shahzada 👋
 
 📍 **San Francisco ↔ New York City**
-| 🤖 **Polyagentmorous builder**
+
+| 🤖 **Software Engineer**
+
 | Lyft
+
 | Ticketfly (acq. by Eventbrite)
+
 | Expedia
+
 | Amazon
+
 | Microsoft
